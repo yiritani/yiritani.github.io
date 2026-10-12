@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://yiritani.github.io/sitemap.xml
+Sitemap: https://yiritani.github.io/pspo_ai/sitemap.xml
